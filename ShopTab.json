@@ -1,23 +1,17 @@
-" Prob not gonna be used "
 {
-
   "Item 1": "nul",
-"Price": "0"
-
-
-"Item 2": "nul",
-"Price": "0"
-
-  
-"Item 3": "nul",
-"Price": "0"
-
-
-"Item 4": "nul",
-"Price": "0"
-
-  
-"Item 5": "nul",
-"Price": "0"
-
+  "Item 1 Price": "0",
+  "Item 1 Description": "",
+  "Item 2": "nul",
+  "Item 2 Price": "0",
+  "Item 2 Description": "",
+  "Item 3": "nul",
+  "Item 3 Price": "0",
+  "Item 3 Description": "",
+  "Item 4": "nul",
+  "Item 4 Price": "0",
+  "Item 4 Description": "",
+  "Item 5": "nul",
+  "Item 5 Price": "0",
+  "Item 5 Description": ""
 }
